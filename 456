@@ -96,7 +96,7 @@ dist
 
 # 
 .DS_Store
-
+#.DS_store
 
 pycache/
 
