@@ -90,7 +90,7 @@ dist
 .fusebox/
 
 # DynamoDB Local files
-.dynamodb/
+.dyn
 
 .tern-port
 
