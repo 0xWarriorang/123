@@ -92,7 +92,7 @@ dist
 # DynamoDB Local files
 .dyn
 
-.tern-port
+.tern-
 
 # 
 .DS_Store
