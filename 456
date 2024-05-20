@@ -83,7 +83,7 @@ dist
 # vuepress build output
 
 
-# Serverless directories
+# Serverless direct
 .serverless/
 
 # FuseBox 
