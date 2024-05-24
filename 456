@@ -89,7 +89,7 @@ dist
 # FuseBox 
 .fusebox/
 
-# DynamoDB Local files
+# DynamoDB Local 
 .dyn
 
 .tern-
