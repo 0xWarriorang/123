@@ -24,7 +24,6 @@ bower_components
 
 # node-waf configuration
 
-
 build/Release
 
 # Dependency directories
