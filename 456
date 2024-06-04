@@ -40,7 +40,7 @@ typings/
 
 .eslintcache
 
-# Microbundle cache
+# Microbundle cach
 .rpt2_cac
 .rts2_cache_cjs/
 .rts2_cache_es/
