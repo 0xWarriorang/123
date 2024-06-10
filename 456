@@ -59,8 +59,6 @@ typings/
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
-.cach
-
 # Next.js build output
 .next
 
@@ -76,7 +74,7 @@ dist
 
 # vuepress build o
 
-# Serverless direct
+# Serverless dire
 .serverless/
 
 # FuseBox 
@@ -85,7 +83,7 @@ dist
 # DynamoDB Local 
 .dyn
 
-.tern-
+.tern
 
 # 
 .DS_Store
