@@ -67,7 +67,7 @@ dist
 
 # Gatsby 
 .cache/
-# Comment in the public line in if your project uses Gatsby and 
+# Comment in the public line in if your project uses Gatsby 
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # publ
 
