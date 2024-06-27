@@ -70,7 +70,6 @@ dist
 # DynamoDB Local 
 .d
 
-.tern
 
 # 
 .DS_Store
