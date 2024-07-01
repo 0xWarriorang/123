@@ -62,7 +62,7 @@ dist
 .serverless/
 
 # FuseBox 
-.fusebox/
+.fusx/
 
 # DynamoDB Local 
 .d
