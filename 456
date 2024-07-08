@@ -25,7 +25,6 @@ typings/
 .npm
 .eslintcach
 .rpt2_cac
-.rts2_cache_cjs/
 .rts2_cache_es/
 
 # Optional REPL history
