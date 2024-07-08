@@ -64,6 +64,27 @@ dist
 pycache/
 
 # Ignore .husky for new contributors using lefthook while maintaining
+# DynamoDB Local 
+
+.DS_Store
+#.DS_store
+
+pycache/
+
+# Ignore .husky for new contributors using lefthook while maintaining
+# backwards compatibility for past 
+.husky
+# DynamoDB Local 
+
+.DS_Store
+#.DS_store
+
+pycache/
+
+# Ignore .husky for new contributors using lefthook while maintaining
+# backwards compatibility for past 
+.husky
+
 # backwards compatibility for past 
 .husky
 
