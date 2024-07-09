@@ -31,7 +31,7 @@ typings/
 .node_repl_history
 
 # Output of 'npm pack'
-*.tgz
+*
 
 # Yarn Integrity 
 
