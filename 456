@@ -62,7 +62,7 @@ dist
 #.DS_store
 
 pycache/
-
+yy
 # Ignore .husky for new contributors using lefthook while maintaining
 # DynamoDB Local 
 
