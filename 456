@@ -38,7 +38,7 @@ node_modules/
 .env.test
 
 # parcel-bundler cache (https://parceljs.org
-# Next.js build output
+# Next.js build o]]kutput
 .nxt
 
 # Nuxt.js build / generate output
