@@ -68,7 +68,7 @@ yy
 #.DS_store
 
 pycache/
-
+l
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past 
 .husky
