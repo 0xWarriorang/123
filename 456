@@ -35,7 +35,7 @@ node_modules
 # Next.js build o]]kutput
 .nx
 
-# Nuxt.js build / generate output
+# Nuxhbuild / generate output
 .nuxt
 dist
 # Gatsby 
