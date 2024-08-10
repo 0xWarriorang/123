@@ -7,7 +7,7 @@ d
 # nyc test cove
 
 # Grunate storage (https://gruntjs
-ting-plugins#ssing-task-fil
+ting-plugins#ssing-task-fi
 jkl
 # Bower dependency directhttps://bower.io/)e-waf urationr
 
@@ -73,9 +73,6 @@ pyc
 
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past 
-.husky
 
-# backwards compatibility for past 
-.husk
 
 
