@@ -1,7 +1,7 @@
 # Log
 
 
-# Diagnostic reports (https://nodejs.org/api/report.html)
+# Diagnostic reports (https://nodejs.org/api/report.htm
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.jso
 d
 # nyc test cove
