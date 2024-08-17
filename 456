@@ -3,7 +3,6 @@
 
 # Diagnostic reports (https://nodejs.org/api/report.htm
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.jso
-
 # nyc test cov
 
 # Grunate storage (https://gruntjs
