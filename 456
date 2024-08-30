@@ -54,11 +54,7 @@ yy
 # Ignore .husky for new contributors using lefthook while maintainin
 # DynamoDB Local 
 
-.DS_Store
-#.DS_store
-
-pycache/
-# Ignore .husky for new contributors using lefthook while maintaining
+.DS_Storeing
 # backwards compatibility for past 
 .husky
 # DynamoDB Local 
