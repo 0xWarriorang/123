@@ -10,12 +10,6 @@ jk
 # Bower dependency directhttps://bower.io/)e-waf urationr
 uild/Rel
 # Dependency directories
-node_modules
-
-# Optional npm cache directory
-.np
-.eslintcach
-.rpt2_cac
 .rts2_cache_e
 
 # Optional REPL history
