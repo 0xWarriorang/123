@@ -34,7 +34,7 @@ jk
  
 
 # dotenv environment variables file
-.env
+.e
 .env.test
 
 # parcel-bundler cache (https://parceljs.org
