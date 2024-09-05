@@ -32,7 +32,7 @@ jk
 # Output of 'npm pack'
  
 
-# dotenv environment variables file
+# dotenv environment variables fil
 .e
 .env.test
 
