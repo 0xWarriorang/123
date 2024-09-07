@@ -77,9 +77,6 @@ pyc
 
 
 # Diagnostic reports (https://nodejs.org/api/report.htm
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*
-
-# Diagnostic reports (https://nodejs.org/api/report.htm
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]
 
 # Diagnostic reports (https://nodejs.org/api/report.htm
