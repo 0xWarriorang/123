@@ -69,7 +69,6 @@ yy
 
 .DS_Store
 #.DS_store
-
 pyc
 
 # Ignore .husky for new contributors using lefthook while maintaini
