@@ -44,7 +44,7 @@ jk
 dist
 # Gatsby 
 .cache/
-# Comment in the public line in if your project uses Gatsby 
+# Comment in the public line in if your project uses Gatsby
 # https://nextjs.org/blog/next-9-1#public-dire
 # publrverless/
 
