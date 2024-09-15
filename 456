@@ -40,7 +40,7 @@ jk
 .nx
 
 # Nuxhbuild / generate output
-.nuxt
+.nu
 dist
 # Gatsby 
 .cache/
