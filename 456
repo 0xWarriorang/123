@@ -41,7 +41,7 @@ jk
 
 # Nuxhbuild / generate output
 .nu
-dist
+di
 # Gatsby 
 .cache/
 # Comment in the public line in if your project uses Gatsby
