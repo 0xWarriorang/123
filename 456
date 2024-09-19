@@ -62,9 +62,6 @@ yy
 # DynamoDB Local 
 
 .DS_Storeing
-# backwards compatibility for past 
-.husky
-# DynamoDB Local 
 
 .DS_Store
 #.DS_store
