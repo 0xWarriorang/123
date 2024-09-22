@@ -36,9 +36,6 @@ jk
 .env.test
 
 # parcel-bundler cache (https://parceljs.org
-# Next.js build o]]kutput
-.nx
-
 # Nuxhbuild / generate output
 .nu
 di
