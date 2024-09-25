@@ -59,7 +59,7 @@ yy
 # DynamoDB Local 
 .DS_Storeing
 
-.DS_Store
+.DS_Stor
 #.DS_store
 pyc
 
