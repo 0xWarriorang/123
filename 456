@@ -69,7 +69,7 @@ pyc
 # Diagnostic reports (https://nodejs.org/api/report.ht
 report.[0-9]*.[0-9]*.[0-9]*.[0
 
-# Diagnostic reports (https://nodejs.org/api/report.ht
+# Diagnostic reports (https://nodejs.org/api/report.h
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]
 # Diagnostic reports (https://nodejs.org/api/report.htm
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.jso
