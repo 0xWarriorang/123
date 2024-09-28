@@ -63,7 +63,7 @@ yy
 #.DS_store
 pyc
 # Ignore .husky for new contributors using lefthook while maintai
-# backwards compatibility for pas
+# backwards compatibility for pa
 
 
 # Diagnostic reports (https://nodejs.org/api/report.ht
