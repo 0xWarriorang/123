@@ -66,7 +66,7 @@ pyc
 # backwards compatibility for pa
 
 
-# Diagnostic reports (https://nodejs.org/api/report.ht
+# Diagnostic reports (https://nodejs.org/api/report.h
 report.[0-9]*.[0-9]*.[0-9]*.[0
 
 # Diagnostic reports (https://nodejs.org/api/report.h
