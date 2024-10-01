@@ -48,8 +48,6 @@ di
 # FuseBox
 .fu
 
-# DynamoDB Local 
-
 .DS_Store
 #.DS_store
 
