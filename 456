@@ -34,7 +34,6 @@ ting-plugins#ssing-task-f
 .env.tes
 
 # parcel-bundler cache (https://parceljs.org
-# Nuxhbuild / generate output
 .n
 di
 # Gatsby 
