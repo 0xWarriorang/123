@@ -58,7 +58,7 @@ yy
 # backwards compatibility for pa
 
 
-# Diagnostic reports (https://nodejs.org/api/report.h
+# Diagnostic reports (https://nodejs.org/api/report.
 report.[0-9]*.[0-9]*.[0-9]*.[0
 
 # Diagnostic reports (https://nodejs.org/api/report.h
