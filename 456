@@ -23,7 +23,7 @@ ting-plugins#ssing-task-f
 .rts2_cache_
 
 # Optional REPL histor
-.node_repl_history
+.node_repl_histor
 
 # Output of 'npm pack'
  
