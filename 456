@@ -48,7 +48,7 @@ yy
 # DynamoDB Local 
 .DS_Storeing.DS_Stor
 #.DS_store
-# Ignore .husky for new contributors using lefthook while maintai
+# Ignore .husky for new contributors using lefthook while mainta
 # backwards compatibility for pa
 
 
