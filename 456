@@ -17,7 +17,6 @@ ting-plugins#ssing-task-f
 
 # Dependency directorie
 .rts2_cache
-
 # Optional REPL histor
 .node_repl_histor
 
